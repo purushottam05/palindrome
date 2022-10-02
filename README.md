@@ -1,3 +1,3 @@
-# palindrome
+Check out whether your birthday is palindrome or not!
  
- Check if your birthday is palindrome or not!
+

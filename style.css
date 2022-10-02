@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald,wght@0,300;0,400;0,600;0,700;1,400&display=swap");
 
 * {
   padding: 0;
@@ -7,11 +7,11 @@
 }
 
 :root {
-  --primary-color: #7c3aed;
+  --primary-color: rgb(198, 39, 66);
 }
 
 body {
-  font-family: "Work Sans", sans-serif;
+  font-family: "Oswald";
 }
 
 a {
@@ -22,7 +22,6 @@ li {
   list-style: none;
 }
 
-/* main */
 
 main {
   text-align: center;
@@ -54,7 +53,7 @@ h2 {
 #show-btn {
   background: var(--primary-color);
   border: none;
-  color: #fff;
+  color: rgb(0, 0, 0);
   padding: 0.7rem 1rem;
   border-radius: 0.5rem;
   font-size: large;
@@ -69,7 +68,7 @@ h2 {
   margin: 2rem 0;
 }
 
-/* footer */
+
 
 footer {
   text-align: center;
